@@ -31,7 +31,7 @@
         android:layout_marginStart="16dp"
         android:ems="10"
         android:inputType="textMultiLine"
-        android:text="Plain Text"
+        android:text=""
         app:layout_constraintBaseline_toBaselineOf="@+id/button"
         app:layout_constraintLeft_toLeftOf="parent" />
 
